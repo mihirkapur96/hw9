@@ -1,0 +1,22 @@
+{
+  "name": "hw9a",
+  "version": "1.0.0",
+  "description": "exercise 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihirkapur96/hw9a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihirkapur96/hw9a/issues"
+  },
+  "homepage": "https://github.com/mihirkapur96/hw9a#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
